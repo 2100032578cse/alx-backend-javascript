@@ -1,5 +1,5 @@
 /**
- * @author Uwizeyimana Sandrine <https://github.com/2100032578cse>
+ * @author Bezaleel Olakunori <https://github.com/B3zaleel>
  * Retrieves a list of students.
  * @returns {{id: Number, firstName: String, location: String}[]}
  */
